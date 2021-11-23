@@ -11,10 +11,10 @@ namespace UploadAndMapingNew
         public Form1()
         {
             InitializeComponent();
-            textBox5.Text = "cdcs3";
+            textBox5.Text = "";
             textBox4.Text = "Mobile_SupG_Avtoexpress";
-            textBox2.Text = "admin";
-            textBox3.Text = "alexis";
+            textBox2.Text = "";
+            textBox3.Text = "";
             listOfStoredProcedureParams = new List<GetStoredProceduresParameters>();
 
         }
